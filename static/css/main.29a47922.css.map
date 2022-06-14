@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.29a47922.css","mappings":"AAAA,KAGI,eAAiB,CAFjB,iCAAqC,CACrC,QAEF","sources":["styles/style.css"],"sourcesContent":["body{\r\n    font-family: 'Montserrat', sans-serif;\r\n    margin: 0;\r\n    background: white;\r\n  }\r\n"],"names":[],"sourceRoot":""}
